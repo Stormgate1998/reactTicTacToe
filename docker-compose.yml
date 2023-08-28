@@ -3,4 +3,4 @@ services:
   client:
     build: .
     ports:
-    - 3141:80
+    - 0.0.0.0:3141:80
